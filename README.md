@@ -1,3 +1,21 @@
+# Bienvenidos!
+
+## Esta aplicación fué diseñada para cifrar/descifar mensajes; requiere de un código numérico (offset).
+
+La forma como funciona está basada en el método de cifrado César, consiste en recorder cierto número (offset) sobre el
+alfábeto los caracteres de tal forma de ocultar a simple vista el mensaje, así mismo para su decodificación es necesario
+saber el número con el cuál fué codificado.
+
+Fue creado utilizando javascript (vanila), HTML y CSS.
+
+Si deseas saber sobre el funcionamiento del código y las herramientas utilizadas te invito a leer completamente el siguiente 
+documento.
+
+##También te invito a conocer como funciona la aplicación en el siguiente link:
+[cifrado César](https://louarlo.github.io/CDMX013-cipher/src/index.html)
+
+***
+
 # Cifrado César
 
 ## Índice
